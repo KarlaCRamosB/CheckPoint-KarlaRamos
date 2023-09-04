@@ -1,0 +1,99 @@
+git init
+git config user.name "KarlaCRamosB"
+git config user.email "kandy.buenrostro1@gmail.com"
+pwd
+cd desktop
+pwd
+mk dir CheckPoint
+mk dir checkpoint
+help
+mk Checkpoint
+mk check
+mk ckeck
+cd Users/Candy Ramos B/Desktop/CheckPoint
+cd Desktop/CheckPoint
+pwd
+git -v
+git log
+git config --list
+cd CheckPoint
+touch main.js index.html
+ls
+git add -all
+git add --all
+ls
+git remote add origin https://github.com/KarlaCRamosB/CheckPoint-KarlaRamos.git
+git commit -m "Commit 01 Karla Ramos"
+git status
+ls
+git push origin main
+git commit -m "commit 01 Karla Ramos"
+cd Desktop/CheckPoint
+cd pwd
+git init
+git remote add origin https://github.com/KarlaCRamosB/CheckPoint-KarlaRamos.git
+git branch -M main
+git status
+git add index.html main.js
+git commit -m "Commit 01 KarlaRamos"
+git push
+git push -u origin main
+git checkout -b "feature"
+mk dir Hardware
+mk dir Software
+mk dir SeguridadInformatica
+touch Hadware/resumen.txt
+touch Software/resumen.txt
+touch SeguridadInformatica/resumen.txt
+git status
+git add .
+git commit -m "Commit 02 KarlaRamos"
+git status
+git branch feature
+git checkout feature
+ls -a
+mk dir Hardware
+mkdir Hardware
+mkdir Software
+mkdir SeguridadInformatica
+touch resumen.txt
+ls -a
+rm resumen.txt
+ls -a
+touch SeguridadInformatica/resumen.txt
+touch Software/resumen.txt
+touch Hardware/resumen.txt
+ls -a
+ls -R
+git status
+git add .
+git commit -m "Commit 02 KarlaRamos"
+git push
+git push -u origin feature
+git checkout main
+mv main.js resumenHardware.txt
+mv index.html resumenSoftware.txt
+git status
+echo SQL Discord Windows > resumenSoftware.txt
+echo RAM > resumenHadware.txt
+rm resumenHadware.txt
+echo RAM > resumenHardware.txt
+echo ROM > resumenHardware.txt
+echo RAM, ROM; CACHE >resumen
+echo RAM; ROM; CACHE; > resumenHardware.txt
+echo RAM, ROM, CACHE >resumenHardware.txt
+echo RAM /n ROM >resumenHardware.txt
+echo RAM ROM >resumenHardware.txt
+echo RAM ROM >> resumenHardware.txt
+echo RAM >> resumenHardware.txt
+echo ROM >> resumenHardware.txt
+echo CACHE >> resumenHardware.txt
+echo SQL >> resumenSoftware.txt
+echo Discord >> resumenSoftware.txt
+echo Windows >> resumenSoftware.txt
+git status
+git add .
+touch comandos.txt
+history
+
+
